@@ -1,0 +1,16 @@
+current directory: /Users/yuxin/Desktop/helloword/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+/Users/yuxin/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/yuxin/Desktop/helloword/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240116-41961-9gdv92 sitelibdir\=./.gem.20240116-41961-9gdv92 clean
+
+current directory: /Users/yuxin/Desktop/helloword/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240116-41961-9gdv92 sitelibdir\=./.gem.20240116-41961-9gdv92
+make: Nothing to be done for `all'.
+
+current directory: /Users/yuxin/Desktop/helloword/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240116-41961-9gdv92 sitelibdir\=./.gem.20240116-41961-9gdv92 install
+
+current directory: /Users/yuxin/Desktop/helloword/AwesomeProject/vendor/bundle/ruby/3.0.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240116-41961-9gdv92 sitelibdir\=./.gem.20240116-41961-9gdv92 clean

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3EC88312-3DB8-4996-AB0D-3464558B169A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "855501A1-765F-41DF-B088-9CA4C69F9F1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/Base/RCTBridge.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "-didReceiveReloadCommand"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA6B6F52-E2C5-4A00-906B-869A447832EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SecondViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E11434BD-17F8-424C-AAC4-D0CB29E42961"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "385"
+            endingLineNumber = "385"
+            landmarkName = "-start"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E11434BD-17F8-424C-AAC4-D0CB29E42961 - b1163712b0f0bbb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTCxxBridge start]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/helloword/AwesomeProject/node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "392"
+                  endingLineNumber = "392"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E11434BD-17F8-424C-AAC4-D0CB29E42961 - b1163712b0f0bbb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTCxxBridge start]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/helloword/AwesomeProject/node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "392"
+                  endingLineNumber = "392"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "E11434BD-17F8-424C-AAC4-D0CB29E42961 - b1163712b0f0bc1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTCxxBridge start]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/helloword/AwesomeProject/node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "395"
+                  endingLineNumber = "395"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "E11434BD-17F8-424C-AAC4-D0CB29E42961 - b1163712b0f0bc1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[RCTCxxBridge start]"
+                  moduleName = "AwesomeProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yuxin/Desktop/helloword/AwesomeProject/node_modules/react-native/React/CxxBridge/RCTCxxBridge.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "395"
+                  endingLineNumber = "395"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
